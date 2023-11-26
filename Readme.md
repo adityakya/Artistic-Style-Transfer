@@ -1,5 +1,5 @@
 # Artistic Style Transfer
-The codes are explained in the jupyter notebook with details explaination.
+The codes are described in the jupyter notebook with detailed explaination.
 
 I have used pretrained VGG19 model which was trained on imagenet.
 
@@ -7,7 +7,7 @@ The model weights (`vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5`) are pres
 
 The style images are taken from the dataset: https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time
 
-The content images are taken from the dataset https://www.kaggle.com/datasets/duttadebadri/image-classification
+The content images are taken from the dataset: https://www.kaggle.com/datasets/duttadebadri/image-classification
 
 Dataset and model weights have to be downloaded before running the code. All these data and VGG19 weights should be kept in a folder named `input`
 
